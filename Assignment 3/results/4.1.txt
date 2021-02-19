@@ -1,0 +1,4 @@
+The unwindowed Sine and Square plots are the same as the rectangular-windowed ones.
+The Hann-windowed magnitude plots were the same as the originals, while the phase flipped signs for 
+the sine plot and reflected over the x-axis to create both positive and negative values at the same 
+indices on the square wave Hann plot.

@@ -1,0 +1,2 @@
+3.4) freq res = sampling rate/DFT size = 44100/22050 = 2 Hz
+3.5)DFT size will double so the frequency resolution will be half. freq res = 1 Hz
